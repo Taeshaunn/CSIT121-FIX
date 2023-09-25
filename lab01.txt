@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <h1>My Favorite Recipe</h1>
 <h2> Gail Lucas </h2>
 <ul> <li>3 cups uncooked bow tie pasta </li>
